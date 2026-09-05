@@ -1,4 +1,4 @@
-# Interactive-Windows-10/11-Debloater
+# Interactive-Windows-Debloater
 
 You can uninstall almost every app that can be pre-installed on any Windows 8/8.1/10/11 machine. This script don't have a GUI yet, you need to run this with Windows PowerShell or PowerShell 7 (recommended)
 
